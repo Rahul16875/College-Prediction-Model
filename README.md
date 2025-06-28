@@ -6,6 +6,9 @@ A comprehensive college prediction system that suggests suitable colleges based 
 
 ![Screenshot 2025-06-28 124328](https://github.com/user-attachments/assets/7b2c5f1f-662e-4c0a-845b-7b7ccc2ab8f0)
 
+![Screenshot 2025-06-28 124435](https://github.com/user-attachments/assets/8b13aa66-84bf-44a9-8102-9efae6f6d52b)
+
+
 
 ## 🎯 Project Overview
 
