@@ -48,4 +48,5 @@ def predict_colleges(exam_type, score, score_type):
     return sorted(suitable_colleges, key=lambda x: x['probability'])
 
 
-![Screenshot 2025-06-28 124314](https://github.com/user-attachments/assets/d2a2758a-3787-4323-a358-987315d21f84)
+![Screenshot 2025-06-28 124314](https://github.com/user-attachments/assets/d6c87c9a-7b17-4381-97fe-796e9b358398)
+
