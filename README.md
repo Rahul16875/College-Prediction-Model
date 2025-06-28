@@ -4,6 +4,9 @@ A comprehensive college prediction system that suggests suitable colleges based 
 
 ![Screenshot 2025-06-28 124314](https://github.com/user-attachments/assets/d6c87c9a-7b17-4381-97fe-796e9b358398)
 
+![Screenshot 2025-06-28 124328](https://github.com/user-attachments/assets/7b2c5f1f-662e-4c0a-845b-7b7ccc2ab8f0)
+
+
 ## 🎯 Project Overview
 
 This project implements an intelligent college prediction model designed to help students make informed decisions about their higher education choices. The system analyzes entrance exam scores and provides personalized college recommendations with admission probability assessments.
